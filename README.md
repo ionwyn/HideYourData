@@ -11,6 +11,12 @@ Download hydExe as .zip, extract it, head to /dist/hyd/ and run hyd.exe
 
 WARNING:  Only upload PNG image (JPEG is lossy and it won't work).  Only upload .txt file for hiding.  This is unstable version.
 
+Click Encrypt, upload your PNG, upload your .txt, and click the Encrypt button
+
+Click Decrypt, upload the PNG with hidden stuff, hit Decrypt.
+
+I apologize for the improper terminologies used, here.  I know what I have currently isn't an Encryption/Decryption system, but this is because future goal is dedicated to implement Compression followed by Encryption before Steganography.
+
 ## Development setup
 
 Don't download hydExe
@@ -54,8 +60,10 @@ Usage:
 
 ## Future work
 
-In folder Encryption_AES is a code for AES 256 Encryption in CBC mode with #PKCS7 padding.
+In folder Encryption_AES is a code for AES 256 Encryption in CBC mode with #PKCS7 padding.  This will be used in the future releases.  The reason why I don't use it... well, honestly... because I am bad with bit processing stuff.
+
+The AES in crypt.py is not to be confused with AES implementation I did with [Grazietta](https://github.com/grazietta).
 
 ## Contributing
 
-Don't.  Just don't do it.  I got this.  Unless you're Yassine.
+Don't.  Just don't do it.  I got this.  Unless you're [Yassine](https://github.com/yasster).
