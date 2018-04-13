@@ -64,6 +64,10 @@ In folder Encryption_AES is a code for AES 256 Encryption in CBC mode with #PKCS
 
 The AES in crypt.py is not to be confused with AES implementation I did with [Grazietta](https://github.com/grazietta).
 
+Future work also includes allowing users to hide any file they want (though in practice this is done already through using bin file format)
+
+Better UI?  No thanks.
+
 ## Contributing
 
 Don't.  Just don't do it.  I got this.  Unless you're [Yassine](https://github.com/yasster).
