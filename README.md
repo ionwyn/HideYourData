@@ -54,8 +54,8 @@ if __name__=="__main__":
 
 ```sh
 Usage:
-  LSBSteg.py encode -i <inputImage in PNG format> -o <newImage.png> -f <file>
-  LSBSteg.py decode -i <inputImageWithHiddenStuff.PNG> -o <output.txt>
+  LSteg.py encode -i <inputImage in PNG format> -o <newImage.png> -f <file>
+  LSteg.py decode -i <inputImageWithHiddenStuff.PNG> -o <output.txt>
 ```
 
 ## Future work
