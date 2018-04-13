@@ -13,6 +13,8 @@ WARNING:  Only upload PNG image (JPEG is lossy and it won't work).  Only upload 
 
 ## Development setup
 
+Don't download hydExe
+
 Install requirements:
 
 ```sh
